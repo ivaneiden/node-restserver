@@ -23,7 +23,7 @@ let urlDB
 
 // } else {
     
-    urlDB = 'mongodb+srv://iserrano:umRbvScH58xADfD@cluster0.od4xm.mongodb.net/cafe';
+    urlDB = 'mongodb+srv://iserrano:umRbvScH58xADfD@cluster0.od4xm.mongodb.net/cafe?retryWrites=true&w=majority';
 
 //}
 
